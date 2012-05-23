@@ -1,0 +1,12 @@
+name: Dragons
+version: 1.4.1
+description: Vive les dragons
+# On pourrait placer chaque author (auteur) dans la liste authors, mais j'ai choisi de ne pas
+# le faire à des fins d'illustrations. Aussi, avoir un author (auteur) distingue cette personne
+# comme celle responsable du projet, et assure que leur nom soit afficher en premier.
+author: Shayana
+main: fr.Shayana.dragonThing.Main
+commands:
+  dragon:
+    description: Un dragon apparait
+    
